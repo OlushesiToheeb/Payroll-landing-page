@@ -1,0 +1,72 @@
+.Container-fluid {
+    padding: 0 ;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 rgba(62,28,131,0.1);
+    -webkit-box-shadow: 0 0 20px 0 rgba(62,28,131,0.1);
+}
+
+
+
+.header-nav-bar{
+    padding: 0;
+    color:#fff;
+}
+
+.header-nav-bar .navbar-brand{
+    line-height: 80px;
+    font-size: 2em;
+    font-weight: 900;
+    color: #41597D;
+    font-family: 'Alata', sans-serif;
+}
+
+.header-nav-bar .navbar-brand .inline{
+    color: #0A64F3
+}
+
+
+.Container-fluid .header-nav-bar .navbar-nav .nav-link {
+    color: #546e7a;
+}
+
+.Container-fluid .header-nav-bar .navbar-nav .nav-link:hover{
+    color: #27b737;
+}
+
+.Container-fluid .header-nav-bar .navbar-nav .active .nav-link {
+    color: #27b737;
+}
+
+.header-nav-bar .act-buttons .btn {
+    margin: 10px 0 10px 10px;
+    padding: 10px 35px;
+    outline: none;
+    color: #fff;
+    border-radius: 25px;
+    background-color: #27b737;
+    border: 1px solid #27b737;
+}
+
+.header-nav-bar .act-buttons .btn:hover {
+    color: #27b737;
+    font-weight: 700;
+    background-color: #fff;
+    border: 1px solid #27b737;
+}
+
+.navbar-toggler:focus, .navbar-toggler:hover {
+    text-decoration: none;
+    outline: none;
+}
+
+.clearfix::after {
+    display: block;
+    clear: both;
+    content: "";
+}
+
+@media only screen and (min-width:320px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+}

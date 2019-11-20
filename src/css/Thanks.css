@@ -1,0 +1,28 @@
+.heroHeader {
+    background-color: rgb(244, 248, 252);
+    padding: 20px;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.thanks{
+    margin: 10% auto;
+    height: 100%;
+    padding: 25px;
+    text-align: center;
+}
+
+.thanks p{
+    font-size: 2em;
+    font-weight: 700;
+    color: #41597D;
+}
+
+.thanks h2{
+    font-size: 4em;
+    font-weight: 900;
+    color: #0A64F3;
+    font-family: 'Pacifico', cursive;
+}

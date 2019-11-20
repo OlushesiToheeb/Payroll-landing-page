@@ -1,0 +1,86 @@
+
+.herosignup{
+    background-color: #F4F8FC;
+    padding: 20px;
+}
+
+.signup_wrapper{
+    margin: 2% auto;
+    width: 40%;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+form h4{
+    color:#41597D;
+}
+
+.btns{
+    text-align: center;
+}
+
+.btn {
+    margin: 10px 0 10px 10px;
+    padding: 10px 35px;
+    border-radius: 25px;
+    outline: none;
+    color: #fff;
+    background-color: #27b737;
+    border: 1px solid #27b737;
+}
+
+.btn:hover {
+    font-weight: 700;
+    color: #27b737;
+    background-color:#fff ;
+    border: 1px solid #27b737;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #27b737;
+    text-decoration: none;
+}
+
+/* media query */
+
+@media (max-width:576px) {
+    /* signup */
+
+    .signup_wrapper {
+        width: 100%;  
+    }
+}
+
+
+@media (min-width:768px) {
+    .signup_wrapper {
+        width: 80%;  
+    }
+
+}
+
+@media (min-width:992px) {
+
+    .herosignup {
+        padding-top: 90px;
+        height: 100vh;
+    }
+}
+
+@media (min-width:1200px) {
+
+    .herosignup.container-fluid {
+        height: 100%;
+    }
+
+    .signup_wrapper {
+        width: 50%;  
+    }
+
+}
