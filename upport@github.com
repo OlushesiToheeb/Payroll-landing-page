@@ -1,0 +1,41 @@
+[33mcommit 548dc37e9c9645ef856e258e4ef1b4e057703c86[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: bb997e0 2db557b
+Author: Olushesi Toheeb <olaolushesi98@gmail.com>
+Date:   Wed Nov 20 10:47:06 2019 +0100
+
+    Merge pull request #1 from Oluwadolz/dependabot/npm_and_yarn/mixin-deep-1.3.2
+    
+    Bump mixin-deep from 1.3.1 to 1.3.2
+
+[33mcommit bb997e0846741cec3ae1f5f4e995e02d50c461d8[m
+Merge: 0bbaefb 63d952c
+Author: Olushesi Toheeb <olaolushesi98@gmail.com>
+Date:   Wed Nov 20 10:46:36 2019 +0100
+
+    Merge pull request #2 from Oluwadolz/dependabot/npm_and_yarn/lodash.template-4.5.0
+    
+    Bump lodash.template from 4.4.0 to 4.5.0
+
+[33mcommit 63d952c6f19fad265b4a1ddfae0d34086380ad2a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Nov 20 09:30:50 2019 +0000
+
+    Bump lodash.template from 4.4.0 to 4.5.0
+    
+    Bumps [lodash.template](https://github.com/lodash/lodash) from 4.4.0 to 4.5.0.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.4.0...4.5.0)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2db557bb40f58cfea90b0da539e5173bb61ff7f4[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Nov 20 09:30:47 2019 +0000
+
+    Bump mixin-deep from 1.3.1 to 1.3.2
+    
+    Bumps [mixin-deep](https://github.com/jonschlinkert/mixin-deep) from 1.3.1 to 1.3.2.
+    - [Release notes](https://github.com/jonschlinkert/mixin-deep/releases)
+    - [Commits](https://github.com/jonschlinkert/mixin-deep/compare/1.3.1...1.3.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
